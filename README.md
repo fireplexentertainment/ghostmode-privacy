@@ -1,0 +1,2 @@
+# ghostmode-privacy
+ghostmode-privacy
